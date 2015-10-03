@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Applications/adt-bundle-mac-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/sqazi/AndroidStudioProjectsCodePath/SimpleTodo/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-26a7bfad3674e8e928b3d00c64a9d9f0f7496809.jar" />
+    </item>
+    <item
+        jar="/Users/sqazi/AndroidStudioProjectsCodePath/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/sqazi/AndroidStudioProjectsCodePath/SimpleTodo/app/build/intermediates/pre-dexed/debug/classes-6c3de850185768fa86b1addf62cd9543da0c35b9.jar" />
+    </item>
+    <item
+        jar="/Users/sqazi/AndroidStudioProjectsCodePath/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/sqazi/AndroidStudioProjectsCodePath/SimpleTodo/app/build/intermediates/pre-dexed/debug/classes-326dbe21d40a3b579abc4e9eee643de3bfb232ba.jar" />
+    </item>
+    <item
+        jar="/Users/sqazi/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/sqazi/AndroidStudioProjectsCodePath/SimpleTodo/app/build/intermediates/pre-dexed/debug/commons-io-2.4-f59bf50635bf50cbc08077c853f40a6c7b1f07d6.jar" />
+    </item>
+    <item
+        jar="/Users/sqazi/AndroidStudioProjectsCodePath/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/sqazi/AndroidStudioProjectsCodePath/SimpleTodo/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-79ccbc6838a4289253ee2e8f80950dc8289d3c68.jar" />
+    </item>
+    <item
+        jar="/Users/sqazi/AndroidStudioProjectsCodePath/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/sqazi/AndroidStudioProjectsCodePath/SimpleTodo/app/build/intermediates/pre-dexed/debug/classes-da65f64c7fd4d2d8402537d20bc628baf619116f.jar" />
+    </item>
+
+</items>
